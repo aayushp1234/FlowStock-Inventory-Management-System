@@ -75,7 +75,7 @@ const powerbanks = {
 //// ACCOUNT ////
 
 const account1 = {
-  owner: 'Atharva Phadtare',
+  owner: 'Aayush Patil',
   movements: [
     { amount: -100000, product: laptop, quantity: 10 },
     { amount: -500000, product: iPhone, quantity: 4 },
